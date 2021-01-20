@@ -19,6 +19,11 @@ public class Amstrong {
 			System.out.println("Armstrong number");
 		else
 			System.out.println("Number is not Armstrong number");
-	}
+	
+	if(temp==c)
+		System.out.println("Armstrong number");
+	else
+		System.out.println("Number is not Armstrong number");
+}
 
 }
